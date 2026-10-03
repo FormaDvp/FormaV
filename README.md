@@ -4,7 +4,7 @@
 
 **VPN-клиент на [Xray-core](https://github.com/XTLS/Xray-core)**.
 
-[![Version](https://img.shields.io/badge/version-1.0.5-blue?style=for-the-badge)](https://github.com/FormaDvp/FormaV/releases)
+[![Version](https://img.shields.io/badge/version-1-blue?style=for-the-badge)](https://github.com/FormaDvp/FormaV/releases)
 [![Platform](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/FormaDvp/FormaV/releases)
 
 [**Скачать последний релиз**](https://github.com/FormaDvp/FormaV/releases) (Windows 10/11, 64-bit)
