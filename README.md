@@ -4,7 +4,7 @@
 
 **VPN-клиент на [Xray-core](https://github.com/XTLS/Xray-core)**.
 
-[![Version](https://img.shields.io/badge/version-v10-blue?style=for-the-badge)](https://github.com/FormaDvp/FormaV/releases)
+[![Version](https://img.shields.io/badge/version-v12-blue?style=for-the-badge)](https://github.com/FormaDvp/FormaV/releases)
 [![Platform](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/FormaDvp/FormaV/releases)
 [![Platform](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/FormaDvp/FormaV/releases)
 
@@ -18,7 +18,7 @@
 
 **Windows**
 
-1. Скачайте **`FormaV_Win_v*.zip`** из [Releases](https://github.com/FormaDvp/FormaV/releases), распакуйте и запустите **FormaV.exe**.
+1. Скачайте **`FormaV_Win_v*.zip`** из [Releases](https://github.com/FormaDvp/FormaV/releases), распакуйте (внутри папка `FormaV`) и запустите **FormaV\FormaV.exe**.
 
 **macOS**
 
